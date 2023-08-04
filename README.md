@@ -22,7 +22,7 @@ I'm a fullstack software developer based in Nairobi, Kenya. My favorite tech sta
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" **alt="ESLint" width="30" height="30" align="left" style="padding-right:10px;"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" **alt="Postgresql"width="30" height="30" align="left" style="padding-right:10px;"/> 
 </div>
-
+<br />
 ####  📫 Where To Reach Me
 <div id="badges">
   <a href="#">
