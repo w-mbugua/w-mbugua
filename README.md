@@ -28,7 +28,7 @@ I'm a fullstack software developer based in Nairobi, Kenya. My favorite tech sta
 ####  📫 Where To Reach Me
 
 <div id="badges">
-  <a href="#">
+  <a href="https://wacumbugua.dev">
     <img src="https://img.shields.io/badge/-website-8B89CC?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="website badge"/>
   </a>
   <a href="https://www.linkedin.com/in/wacumbugua/">
